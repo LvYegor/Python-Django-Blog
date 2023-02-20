@@ -14,7 +14,7 @@
 - Django >= 3.1.5
 - sqlite3
 
-## Разработка
+## Запуск
 
 ##### 1) Клонировать репозиторий
 
@@ -34,7 +34,7 @@ Windows
 
     ./venv/Scripts/activate
 
-##### 4) Устанавливить зависимости:
+##### 4) Установить зависимости:
 
     pip install django==3.1.5
     python -m pip install django_debug_toolbar
